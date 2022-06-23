@@ -1,0 +1,30 @@
+OperationDate,Amount,Currency,Description,Account,Expense,Categoría
+31/05/22,"10425.75",MXN,Coffee,Credit,Payment,Meals
+31/05/22,"1500.00",MXN,Pago efectivo,Debit,Gasto,Efectivo
+02/02/22,500,MXN,Coffee,Credit,Payment,Meals
+31/05/22,157,MXN,Coffee,Credit,Payment,Meals
+31/05/22,314.85,MXN,Consumo local ajeno,Credit,Gasto,Gasolina
+01/01/22,282.02,MXN,Consumo local ajeno,Debit,Gasto,Celular
+31/05/22,"1875.00",MXN,Cred,Credit,Gasto,Transferencias
+31/05/22,"1500.00",MXN,Coffee,Debit,Payment,Meals
+31/05/22,500,MXN,Coffee,Debit,Payment,Meals
+31/05/22,"4400.00",MXN,Credit Card,Credit,No computable,Tarjeta crédito
+31/05/22,"2200.00",MXN,Coffee,Debit,Payment,Transferencias
+31/05/22,"2000.00",MXN,Pagos,Debit,No computable,Inversiones
+28/05/22,70,MXN,Pagos,Debit,Gasto,Otros gastos
+26/05/22,154.98,MXN,Openpay,Debit,Gasto,"Internet, Televisión o Teléfono"
+23/05/22,46.41,MXN,Microsoft,Debit,Gasto,Compras y Servicios online
+22/03/22,1650,MXN,Regalos,Credit,Gasto,Regalos
+22/05/22,650,MXN,Inversión,Debit,No computable,Inversiones
+21/05/22,150,MXN,Medicamentos,Credit,Gasto,Transferencias
+21/02/22,200,MXN,Servicios,Debit,Gasto,Celular
+21/05/22,200,MXN,Coffee,Credit,Payment,Transferencias
+21/05/22,1864,MXN,Credit Card,Debit,No computable,Tarjeta crédito
+21/05/22,550,MXN,Credit Card,Credit,No computable,Inversiones
+18/05/22,136,MXN,Oxxo,Credit,Gasto,Supermercado
+17/05/22,205,MXN,Coffee,Credit,Payment,Transferencias
+17/05/22,833,MXN,Credit Card,Credit,No computable,Tarjeta crédito
+17/05/22,416,MXN,Coffee,Credit,Payment,Transferencias
+17/01/22,150,MXN,Walmart,Credit,Gasto,Supermercado
+16/05/22,139,MXN,Wasabi sushi,Cuenta,Gasto,Restaurante
+16/05/22,200,MXN,Coffee,Cuenta,Payment,Transferencias
