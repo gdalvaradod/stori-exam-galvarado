@@ -113,7 +113,6 @@ html = """\
             <td style='border:1px solid'>"""+str(dec)+"""</td>
         </tr>
     </table>
-    <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/560/600/resized/LogoStori-azul_Horizontal_-_Copy_(2).png?1634748631">
     </p>
 </body>
 </html>
